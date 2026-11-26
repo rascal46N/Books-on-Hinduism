@@ -13,7 +13,7 @@
 
 - **Shri Shivbharat (Hindi Translation)** — Kavindra Paramananda; translated by Satyakam Arya; edited by Sanjay Dixit and Vinay Krishna Chaturvedi 'Nufel'
  
-  **Got no links, but this is the Life and Leela of Shivaji Maharaj as written by his court poet**
+  *Got no links, but this is the Life and Leela of Shivaji Maharaj as written by his court poet*
 
 <h2> Bhagavad Gita </h2>
 
@@ -42,6 +42,7 @@
 - **Just War and the Indian Tradition: Arguments from the Battlefield** — Shyam Ranganathan
 
   *This appears to be a chapter excerpt. So here are all works by the author:*
+  <br>
   **https://www.goodreads.com/search?ref=nav_sb_noss_l_65&tab=books&filter=all&page=1&q=Shyam+Ranganathan**
 
 <h2> Fictional Retellings </h2>
@@ -60,3 +61,7 @@
 - **The Life of Ramakrishna** — Romain Rolland
 
     **https://www.goodreads.com/book/show/146820.The_Life_of_Ramakrishna?ref=nav_sb_ss_2_42**
+
+- **The Essentials of Hinduism** — Swami Vivekananda
+
+  **https://books.google.co.in/books/about/Essentials_of_Hinduism.html?id=PCiiDAAAQBAJ&source=kp_book_description&redir_esc=y**

@@ -5,13 +5,21 @@
 
 - **Chanakya Niti** — Chanakya
 
+    **https://www.goodreads.com/book/show/24705200-chanakya-niti?ref=nav_sb_ss_2_13**
+
 - **Shri Hanuman Chalisa: Mahaviri Vyakhya Sahit** — Goswami Tulsidas; commentary by Jagadguru Ramanandacharya Swami Ramabhadracharya
 
+    **https://www.goodreads.com/book/show/58885556-shri-hanuman-chalisa?ref=nav_sb_ss_1_44**
+
 - **Shri Shivbharat (Hindi Translation)** — Kavindra Paramananda; translated by Satyakam Arya; edited by Sanjay Dixit and Vinay Krishna Chaturvedi 'Nufel'
+ 
+  **Got no links, but this is the Life and Leela of Shivaji Maharaj as written by his court poet**
 
 <h2> Bhagavad Gita </h2>
 
-- **The Bhagavad Gita: Sadhak Sanjivani** — Swami Ramsukhdas
+- **Shrimad Bhagavad Gita Sadhak Sanjivani** — Swami Ramsukhdas
+
+    **https://gitapress.org/product/shrimad-bhagavad-gita-sadhak-sanjivani-hindi-commentary-by-swami-ramsukhdas-or-gita-press-gorakhpur-publication?srsltid=AYCX9vKNuTnEu1u-jlgAShtooAM7zO8CAfL2jhF9LD30gzfy3XdaaIhs**
   
 - **Bhagavad Gita** — translated by Swami Swarupananda
 
@@ -33,6 +41,8 @@
 
 - **Just War and the Indian Tradition: Arguments from the Battlefield** — Shyam Ranganathan
 
+  *This appears to be a chapter excerpt. So here are all works by the author:*
+  **https://www.goodreads.com/search?ref=nav_sb_noss_l_65&tab=books&filter=all&page=1&q=Shyam+Ranganathan**
 
 <h2> Fictional Retellings </h2>
 
@@ -48,3 +58,5 @@
   **https://www.goodreads.com/book/show/41975125-christ-the-messenger?ref=nav_sb_ss_1_20**
 
 - **The Life of Ramakrishna** — Romain Rolland
+
+    **https://www.goodreads.com/book/show/146820.The_Life_of_Ramakrishna?ref=nav_sb_ss_2_42**

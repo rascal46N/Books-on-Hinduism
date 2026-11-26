@@ -65,3 +65,7 @@
 - **The Essentials of Hinduism** — Swami Vivekananda
 
   **https://books.google.co.in/books/about/Essentials_of_Hinduism.html?id=PCiiDAAAQBAJ&source=kp_book_description&redir_esc=y**
+
+- **Life of Vivekananda and the Universal Gospel** — Romain Rolland
+
+    **https://www.goodreads.com/en/book/show/146856.Life_of_Vivekananda_and_the_Universal_Gospel**

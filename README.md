@@ -7,8 +7,8 @@
 </sub>
 </p>
 
-  <p align="center">
-  <a href="https://github.com/rascal46N/Books-on-Hinduism/stargazers">
+ <p align="center">
+  <a href="https://github.com/rascal46N/Books-on-Hinduism">
     <img src="https://img.shields.io/github/stars/rascal46N/Books-on-Hinduism?style=for-the-badge&logo=github&label=%E2%AD%90%20STAR%20THIS%20REPO&color=yellow" alt="Star this repository on GitHub">
   </a>
 </p>
